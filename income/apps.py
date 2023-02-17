@@ -1,5 +1,6 @@
-from django.apps import AppConfig
-
-
-class ExpensesConfig(AppConfig):
-    name = 'expenses'
+# from django.apps import AppConfig
+#
+#
+# class ExpensesConfig(AppConfig):
+#     name = 'expenses'
+#     label = 'expenses'

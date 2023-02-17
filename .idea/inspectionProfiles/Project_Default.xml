@@ -1,0 +1,61 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="admin" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="6">
+            <item index="0" class="java.lang.String" itemvalue="django-widget-tweaks" />
+            <item index="1" class="java.lang.String" itemvalue="django-crispy-forms" />
+            <item index="2" class="java.lang.String" itemvalue="django-filter" />
+            <item index="3" class="java.lang.String" itemvalue="Django" />
+            <item index="4" class="java.lang.String" itemvalue="asgiref" />
+            <item index="5" class="java.lang.String" itemvalue="sqlparse" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="django_heroku" />
+          <option value="transactions.views.ReportedDateForm" />
+          <option value="transactions.views.request" />
+          <option value="ims.inventory.models.phonenumber_field" />
+          <option value="management.management.urls.rest_framework_simplejwt" />
+          <option value="management.management.urls.TokenObtainPairView" />
+          <option value="management.management.urls.TokenRefreshView" />
+          <option value="management.management.urls.TokenVerifyView" />
+          <option value="management.management.urls.admin" />
+          <option value="management.inventory.views.JWTAuthentication" />
+          <option value="management.inventory.urls.views" />
+          <option value="management.transactions.models.inventory" />
+          <option value="management.transactions.serializers.serializers" />
+          <option value="management.transactions.views.JWTAuthentication" />
+          <option value="management.inventory.views.RefreshToken" />
+          <option value="management.transactions.models.*" />
+          <option value="management.transactions.Stock" />
+          <option value="management.inventory.Stock" />
+          <option value="management.inventory.serializers.User" />
+          <option value="accounts.views.Httpresponse" />
+          <option value="accounts.views.HttpStreamingResponse" />
+          <option value="accounts.urls.views" />
+          <option value="transactions.models.PurchaseBill" />
+          <option value="core.homepage.urls.views" />
+          <option value="IMDPROJ.IMDAPP.views.form_class" />
+          <option value="djcelery" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
